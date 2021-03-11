@@ -1,2 +1,3 @@
 # hello-world
-Have a try
+Maybe just have a try
+Let's code more!
